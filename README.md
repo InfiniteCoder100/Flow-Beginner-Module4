@@ -107,7 +107,7 @@ Also, the access of these variables and functions inside the Script.cdc file is 
 
 
 ## Authors
-CodeBlocker52(https://github.com/CodeBlocker52 )
+Infinitecoder100 (https://github.com/InfiniteCoder100)
 
 ## License
 This project is licensed under the MIT- see the LICENSE.md file for details
